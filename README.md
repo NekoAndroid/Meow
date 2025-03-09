@@ -3,7 +3,8 @@
 I know, this program is beyond simple.
 I just want to archive it so I don't lose it.
 
-What it does:
+**What it does:**
+
 Cleans the terminal output and prints "Meow!" at the user before returning
 normal execution.
 
