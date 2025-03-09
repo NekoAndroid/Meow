@@ -3,5 +3,8 @@
 I know, this program is beyond simple.
 I just want to archive it so I don't lose it.
 
-If you're still interested on what it does, it clears the terminal output and prints "Meow!",
-then returns you to the terminal
+What it does:
+Cleans the terminal output and prints "Meow!" at the user before returning
+normal execution.
+
+I like to put it on as the Terminal meowing back at the user.
