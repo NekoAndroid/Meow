@@ -4,6 +4,6 @@ int main( ) {
     
     system("clear");
     printf("Meow!\n");
-    return(0);
+    return 0;
 
 }
